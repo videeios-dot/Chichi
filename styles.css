@@ -1,1 +1,17 @@
 
+.hero {
+  display: flex;
+}
+.hero-text{
+  width: 66.66% ;
+}
+
+.hero-image{
+  width:33.33% ;
+}
+.hero-image img{
+  width: 100% ;
+  height: 100%; 
+  object-fit: cover;
+    
+}
